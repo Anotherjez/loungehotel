@@ -174,7 +174,7 @@ header {
 /* =========== kwiks slider ========= */
 .kwicks-wrapper {
 	width:640px;
-	overflow:hidden;
+	overflow:hidden
 }
 .kwicks {/* recommended styles for kwicks ul container */
 	list-style:none;
@@ -183,7 +183,7 @@ header {
 	padding:0 !important;
 	overflow:hidden;
 	height:414px;
-	background:none;
+	background:none
 }
 .kwicks li {/* these are required, but the values are up to you (must be pixel) */
 	width:160px;
