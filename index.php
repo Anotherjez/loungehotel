@@ -1,6 +1,6 @@
 ﻿<?php
 
-include('../libs/utils.php');
+include('./libs/utils.php');
 
 
 ?>
